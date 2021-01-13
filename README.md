@@ -14,13 +14,10 @@ Routing allows us to swich between views using URL, By creating routes
 
 # Template Inheritance #
 Allows us to inherit code by creating a base template and using {% extends 'base.html' %} in a child template
-<<<<<<< HEAD
 
 # Styling Our Templates #
 Taking the styles of the theme and adding them to our own site Styles the content on our site, By using the theme that we got from Start Bootstrap
-=======
-<<<<<<< HEAD
-=======
 
->>>>>>> f69ac5ad3be84f628d1a46c3faa7f4b50645c6c5
->>>>>>> 989866d0b4e1fcb52813e50e314e9eec217e21b4
+# Making The Design Our Own #
+Styling our site, Customising the theme, By modifying the theme to suit our needs
+
