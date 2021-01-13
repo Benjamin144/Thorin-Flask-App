@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Benjamin144/Thorin-Flask-App)
+
 # Thorin-Flask-App
 
 Flask is a small framework that allows us t build web apps.
@@ -12,3 +14,6 @@ Routing allows us to swich between views using URL, By creating routes
 
 # Template Inheritance #
 Allows us to inherit code by creating a base template and using {% extends 'base.html' %} in a child template
+
+# Styling Our Templates #
+Taking the styles of the theme and adding them to our own site Styles the content on our site, By using the theme that we got from Start Bootstrap
