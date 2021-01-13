@@ -12,3 +12,7 @@ Routing allows us to swich between views using URL, By creating routes
 
 # Template Inheritance #
 Allows us to inherit code by creating a base template and using {% extends 'base.html' %} in a child template
+<<<<<<< HEAD
+=======
+
+>>>>>>> f69ac5ad3be84f628d1a46c3faa7f4b50645c6c5
