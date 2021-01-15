@@ -32,3 +32,6 @@ A JSON file that will contain our data that will allow us to store data in a JSO
 
 ### Iterating Over Our JSON Data ###
 A for loop to iterate over our JSON data, It allows us to re-render the same HTML code for each item in a list (or iterable, By passing the data to the template and using the {% for member in company_data %} tag
+
+### Using If Statements Inside Our HTML ####    
+The if template tag, allows us to use if statements inside our templates, by using the {% if some_condition %} tag and the closing {% endif %} tag
