@@ -27,3 +27,8 @@ Information that we can provide to a template from the backend, Allows us to gen
 ### Using For Loops Inside HTML ###
 This is a template tag that allows us to perform logic inside of our HTML templates. In this case, it allows us to use a for loop inside of our HTML by using the {% %} template tags
 
+### Reading From A JSON File ###
+A JSON file that will contain our data that will allow us to store data in a JSON file by creating a .json file and adding our data to the file
+
+### Iterating Over Our JSON Data ###
+A for loop to iterate over our JSON data, It allows us to re-render the same HTML code for each item in a list (or iterable, By passing the data to the template and using the {% for member in company_data %} tag
