@@ -35,3 +35,6 @@ A for loop to iterate over our JSON data, It allows us to re-render the same HTM
 
 ### Using If Statements Inside Our HTML ####    
 The if template tag, allows us to use if statements inside our templates, by using the {% if some_condition %} tag and the closing {% endif %} tag
+
+### Advanced Routing ###
+Additional routing parameters, that allow us to create more specific routes, by passing part of a route to a function as an argument
