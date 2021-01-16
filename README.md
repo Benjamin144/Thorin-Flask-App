@@ -41,3 +41,6 @@ Additional routing parameters, that allow us to create more specific routes, by 
 
 ### Creating A Form In A Template ###
 This is an HTML form, that allows us to submit data to the server by creating a new form!
+
+### POST ###
+The POST request method, allows us to post infomation to our server, by specifying the POST method on the form element and handling it on the backend
