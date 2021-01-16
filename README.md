@@ -38,3 +38,6 @@ The if template tag, allows us to use if statements inside our templates, by usi
 
 ### Advanced Routing ###
 Additional routing parameters, that allow us to create more specific routes, by passing part of a route to a function as an argument
+
+### Creating A Form In A Template ###
+This is an HTML form, that allows us to submit data to the server by creating a new form!
