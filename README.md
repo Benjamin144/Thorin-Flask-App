@@ -59,3 +59,6 @@ The Heroku Toolbelt, where stuff happens! It allows us to us Heroku functionlity
 
 ### Pushing to Heroku ###
 Our Heroku deployment, pushes our code to the Heroku server by adding a new git remote that points to the server and pushing to that remote
+
+### Adding A requirements.txt File ###
+The requirements.txt file that keeps track of the dependencies that I have installed for this project, I am using the pip3 freeze --local > requirements.txt command
