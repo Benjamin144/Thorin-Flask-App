@@ -47,3 +47,15 @@ The POST request method, allows us to post infomation to our server, by specifyi
 
 ### Providing feedback to the user ###
 I will use a 'flash' function, that allows us to provide users with feedback, by using the flash function!
+
+### Signing up to Heroku ###
+Experimenting with Heroku's deployment platform that will allow us to deploy our code to a server for all the world to see!
+
+### Creating a new Heroku app ###
+Do this from the heroku apps command, Creates a new app on Heroku by creating a new app on the Heroku dashboard
+
+### The Heroku Toolbelt ###
+The Heroku Toolbelt, where stuff happens! It allows us to us Heroku functionlity from the CLI. Firstly, we need to log from the CLI and then we'll heroku commands to access different pieces of functionality
+
+### Pushing to Heroku ###
+Our Heroku deployment, pushes our code to the Heroku server by adding a new git remote that points to the server and pushing to that remote
