@@ -44,3 +44,6 @@ This is an HTML form, that allows us to submit data to the server by creating a 
 
 ### POST ###
 The POST request method, allows us to post infomation to our server, by specifying the POST method on the form element and handling it on the backend
+
+### Providing feedback to the user ###
+I will use a 'flash' function, that allows us to provide users with feedback, by using the flash function!
